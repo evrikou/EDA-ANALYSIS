@@ -46,12 +46,12 @@ Release year distribution for top rated TV-Shows
 ![Release year distribution for top rated TV-Shows](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/54e55793-62cb-4da0-9705-c5539b7202a3)
 
 Most common genres for Movies
-![most common movie genres](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/f10f3a8e-ef4e-4b05-a565-2f54d6198401)
+![most common movie genres](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/4a3fc4ce-28df-4432-876e-f6793936b857)
 
 Most common genres for TV-Shows
-![most common show genres](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/4090e68b-c295-4f83-83d4-4a6008329d4b)
+![most common show genres](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/ddda578f-46c5-4e81-bff2-67dd7a708bc6)
 
-Average duration 
+Average duration
 ![duration](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/d510bee2-c1ac-43d2-9ba9-2a7f1fb49705)
 
 Number of seasons for the most popular shows
