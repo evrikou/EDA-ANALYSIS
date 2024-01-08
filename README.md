@@ -37,4 +37,29 @@ Top rated Movies
 ![top rated movies](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/7d24d23b-6e33-4d4c-b828-43f206de8d66)
 
 Top rated TV-Shows 
+![top rated shows](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/a047b250-c921-41eb-b4ff-a933fc74ba24)
+
+Release year distribution for top rated Movies
+![Release year distribution for top rated Movies](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/aa0b918b-d209-456e-8c2c-c626da010485)
+
+Release year distribution for top rated TV-Shows 
+![Release year distribution for top rated TV-Shows](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/54e55793-62cb-4da0-9705-c5539b7202a3)
+
+Most common genres for Movies
+![most common movie genres](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/f10f3a8e-ef4e-4b05-a565-2f54d6198401)
+
+Most common genres for TV-Shows
+![most common show genres](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/4090e68b-c295-4f83-83d4-4a6008329d4b)
+
+Average duration 
+![duration](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/d510bee2-c1ac-43d2-9ba9-2a7f1fb49705)
+
+Number of seasons for the most popular shows
+![seasons](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/78854f16-c6ac-445e-930b-4b0891261752)
+
+Age certifications for Movies
+![age movies](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/f1e53956-a660-445e-9664-950dcf06c0e8)
+
+Age certifications for TV-Shows
+![age tv shows](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/0ba94e37-81c1-417e-9e4a-ea51db947c2c)
 
