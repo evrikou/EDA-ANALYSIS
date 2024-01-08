@@ -52,6 +52,7 @@ Most common genres for TV-Shows
 ![most common show genres](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/ddda578f-46c5-4e81-bff2-67dd7a708bc6)
 
 Average duration
+
 ![duration](https://github.com/evrikou/EDA-ANALYSIS/assets/134646634/d510bee2-c1ac-43d2-9ba9-2a7f1fb49705)
 
 Number of seasons for the most popular shows
